@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Christmas Card</string>
+    <string name="message">"From Werner's family"</string>
+    <string name="text">Merry Christmas!</string>
+  </resources>
